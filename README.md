@@ -33,8 +33,18 @@ The research focuses on two independent datasets ($N = 200$ each) addressing aca
 ---
 
 ## 📂 Repository Contents
-* `SPSS_Assignment1_Categorical_Results_APA.docx`: Full report for frequency distributions, chi-square tests of independence, non-parametric comparisons, and binary logistic regression models.
-* `SPSS_Assignment2_Continuous_Results_APA.docx`: Full report for continuous variables, $t$-tests, ANOVA, repeated measures, linear regression, and exploratory factor analysis.
+
+### 📄 Research Reports (PDF & Word)
+* `SPSS_Assignment1_Categorical_Results_APA.pdf`: Empirical report covering frequencies, chi-square cross-tabulations, non-parametric tests, and binary logistic regression.
+* `SPSS_Assignment2_Continuous_Results_APA.pdf`: Empirical report covering descriptive statistics, t-tests, ANOVA, repeated measures, linear regression, and exploratory factor analysis (EFA).
+
+### 💾 Datasets (.sav)
+* `Student_Academic_Performance.sav`: Dataset 1 ($N = 200$) containing academic indicators (exam scores, study hours, attendance, stress, scholarships).
+* `Employee_Job_Satisfaction.sav`: Dataset 2 ($N = 200$) containing organizational metrics (salary, tenure, performance, 12-item satisfaction scale, turnover intention).
+
+### 📊 Raw Output Files (.spv)
+* `Assignment1_Output.spv`: Raw SPSS output log and tables for categorical analyses.
+* `Assignment2_Output.spv`: Raw SPSS output log and tables for continuous and multivariate models.
 
 ---
 
